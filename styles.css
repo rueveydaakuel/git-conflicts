@@ -19,3 +19,7 @@ footer {
   color: var(--color-text-light);
   font-size: 0.8rem;
 }
+body {
+  margin: 0 auto;
+  width: min(100% - 2rem, 68ch);
+}
